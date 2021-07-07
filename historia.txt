@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Esta es la historia de Juan Leyva.
 
 Tiene 25 años nacio en México.
 
+=======
+Esta es la historia de Juan Leyva.
+
+Tiene 25 años nacio en México.
+
+>>>>>>> b7b6cab33dfd0d6c41b901c2675ed21aa11f280e
 Y esta es su historia.
